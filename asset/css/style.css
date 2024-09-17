@@ -218,12 +218,14 @@ a:hover{
     justify-content: center;
     margin-bottom: 20px;
 }
-.formulario_customizado{
-    padding-left: 450px;
+.boton_formulario{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
 }
 .boton_customizado{
     margin-top: 5px;
-    padding-left: 640px;
 }
 /*Animaciones*/
 
