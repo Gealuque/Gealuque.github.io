@@ -19,6 +19,10 @@ a:hover{
 }
 
 /*Perfil*/
+
+.bordes{
+    border: 2px solid black;
+}
 .box_p{
     background-image: url(../img/fondo_header.jpeg);
     background-size:cover;
@@ -33,6 +37,11 @@ a:hover{
     text-align: start;
     align-items: center;
     margin-left: 60px;
+}
+.alibox{
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 .perfilimg{
     width: 300px;
